@@ -14,7 +14,7 @@ class UTargetSystemTargetableInterface : public UInterface
 };
 
 /**
- *
+ * Target System targetable interface
  */
 class TARGETSYSTEM_API ITargetSystemTargetableInterface
 {
